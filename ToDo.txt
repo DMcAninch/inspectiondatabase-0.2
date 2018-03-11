@@ -1,0 +1,35 @@
+Next projects:
+
+Keep writing tests
+
+Github does not like my markdown in README
+
+templates and inspection detail views should include lists of associated template items and inspection items
+
+Add functionality to generic views for choosing fields to display if fields = [] is specified, or all fields if not
+
+Give references some modicum of functionality
+
+Make inspection templating System
+
+Make actual inspection interface
+
+Clients need a way to access "my inspections", "my action items", etc.
+
+Gather feedback and loop back with changes
+
+Add permissions system
+
+Add validators to models
+
+Make references more useful
+
+Make index page more useful
+
+Polish forms
+
+Add filtering and searching
+
+Add some javascript polishes
+
+Add offline inspecting functionality
